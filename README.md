@@ -1,3 +1,7 @@
+![image](https://github.com/desafin/cortex_m4_HC-SR04/assets/131871057/312ba871-8c47-493a-a643-fc2bfa17a7a0)
+
+
+
 # 프로젝트 소개
 cortex-m4 SR04 초음파 센서 사용하기
 
